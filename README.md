@@ -9,3 +9,6 @@
 </p>
 
 # Demo Video
+
+https://github.com/gallakishore/student-data-management-system-jdbc/assets/137784768/7dc3013d-9e94-45ab-a04c-7b5362d0b4bf
+
